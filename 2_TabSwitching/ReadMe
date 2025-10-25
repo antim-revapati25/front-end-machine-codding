@@ -1,0 +1,4 @@
+Task: 
+create a component which should have a function to switch tabs
+data should be persistent accross components
+
